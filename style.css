@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Alice", serif;
+  line-height: 150%;
+  color: rgba(87, 58, 55, 1);
+}
+
+body {
+  background-image: url(assets/bg.svg);
+  background-size: cover;
+}
+
+#page {
+  width: 800px;
+  padding: 24px;
+  background-color: rgba(240, 232, 194, 1);
+  border-radius: 24px;
+  margin: 48px auto 28px;
+  box-sizing: border-box;
+}
+
+main {
+  padding: 24px;
+}
+
+section + section {
+  margin-top: 24px;
+}
+
+#about p + p {
+  margin-top: 12px;
+}
+
+h1 {
+  line-height: 140%;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h1,
+h2 {
+  color: rgba(41, 27, 26, 1);
+  margin-bottom: 4px;
+  line-height: 150%;
+}
+
+ul {
+  padding-left: 24px;
+}
+
+footer {
+  color: #573824;
+  text-align: center;
+  padding-bottom: 48px;
+
+}
+
+footer img {
+  vertical-align: middle;
+}
