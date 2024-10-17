@@ -1,4 +1,4 @@
-<h1 align="center"> Flutuar </h1>
+<h1 align="center"> Receita </h1>
 
 <p align="center">
 Evento exclusivo do Explorer, promovido pela Rocketseat para ensino de tecnologias WEB.
