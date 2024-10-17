@@ -59,9 +59,14 @@ footer {
   color: #573824;
   text-align: center;
   padding-bottom: 48px;
-
 }
 
 footer img {
   vertical-align: middle;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
 }
